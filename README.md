@@ -13,10 +13,30 @@
 #### Kebutuhan sistem :
     - Sistem Operasi : Linux atau Windows
 
-#### Proses instalasi : 
-    - 
-- Prasyarat, apa saja yang harus diinstal sebelumnya.
-- Langkah instalasi dalam CLI.
+#### Proses instalasi :
+- Membuat environment baru dengan application server apache versi terbaru dengan **php versi 8.0.29**
+
+<img src="screenshot/ss-komdat-1.jpg">
+
+- Selain application server, digunakan database server berupa database mysql. Dan mengubah domain menjadi [it-today.user.cloudjkt01.com](it-today.user.cloudjkt01.com), setelah menekan tombol `create`, ditunggu beberapa menit agar environment tercipta
+
+<img src="screenshot/ss-komdat-2.jpg">
+
+- Deploy menggunakan git dan memasukkan link repository github beserta token sebagai autentikasi untuk repository privat
+
+<img src="screenshot/ss-komdat-3.jpg">
+
+- Auto-resolve conflicts dimatikan dan tombol `deploy` ditekan
+
+<img src="screenshot/ss-komdat-4.jpg">
+
+- Berikutnya adalah membuat database baru pada `phpmyadmin`
+
+<img src="screenshot/ss-komdat-5.jpg">
+
+- Selanjutnya adalah membuat file `.htaccess` pada `~/webroot/ROOT`
+
+<img src="screenshot/ss-komdat-6.jpg">
 
 
 ## Konfigurasi (opsional)
