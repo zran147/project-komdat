@@ -1,5 +1,6 @@
-# Aplikasi Web "XYZ"
+# Aplikasi Web "Noted"
 
+Noted merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan. 
 
 ## Sekilas Tentang
 
