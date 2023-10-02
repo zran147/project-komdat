@@ -93,6 +93,15 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ## Cara Pemakaian
 
+**CLIENT SIDE**
+  1. Home Page
+     <img src="screenshot/komdat-tampilan1">
+
+     Home Page ini merupakan page pertama yang akan dijumpai pengguna, baik itu *user* ataupun admin ketika mengakses website. Terdapat *navigation bar* yang berisikan berbagai navigasi bagi pengguna yang ingin mengakses fitur lainnya.
+
+ 2. Events Page
+    <img src="screenshot/komdat-tampilan2">
+
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
 - Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
