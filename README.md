@@ -110,11 +110,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Di samping itu, **IT Today** memiliki beberapa kekurangan di antaranya ialah
 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
-- Konfirmasi status pembayaran yang masih dilakukan secara manual oleh admin
+- Konfirmasi status pembayaran yang masih dilakukan secara manual oleh admin.
 
 Jika dibandingkan dengan *Money Management System (MMS)* sejenisnya seperti **Actual**, **Noted** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MMS tersebut:
 
 1. Fitur yang disediakan oleh **Compfest** jauh lebih banyak dibandingkan pada **IT Today**.
+2. **Compfest** memiliki *light mode* dan *night mode*, sehingga pengguna dapat menyesuaikan preferensinya.
 
 ## Referensi
 
