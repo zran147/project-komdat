@@ -4,7 +4,6 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
-
 Noted merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan.
 
 ## Instalasi
