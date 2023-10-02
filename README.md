@@ -12,9 +12,9 @@
 
 ### Kebutuhan sistem :
 - OS: Linux/Windows
-- Apache Web server 1.3+.
-- PHP 5.2+.
-- MySQL 5.0+.
+- Apache Web server 2.4.57
+- PHP 8.0.29
+- MySQL CE 8.0.34
 
 ### Proses instalasi :
 - Membuat environment baru dengan application server apache versi terbaru dengan **php versi 8.0.29**
