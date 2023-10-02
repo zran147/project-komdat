@@ -1,6 +1,6 @@
-<h1 align="center"><img src="https://images.squarespace-cdn.com/content/v1/61d85b007f3a131e371c47a7/b7a232c6-28f2-4a91-8142-72cb3818d984/Noted_Logo_Navy.png?format=1500w"></h1>
+<h1 align="center"><img src="screenshot/logo-itod.png"></h1>
 
-# Aplikasi Web **"IT TODAY"**
+# Aplikasi Web **"IT TODAY 2023"**
 
 [Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
