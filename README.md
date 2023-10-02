@@ -63,7 +63,7 @@
     ```
 
 
-## Konfigurasi (opsional)
+## Konfigurasi
 
 Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
 - batas upload file
@@ -76,7 +76,7 @@ Plugin untuk fungsi tambahan
 - dll
 
 
-##  Maintenance (opsional)
+##  Maintenance
 
 Setting tambahan untuk maintenance secara periodik, misalnya:
 - buat backup database tiap pekan
@@ -84,7 +84,7 @@ Setting tambahan untuk maintenance secara periodik, misalnya:
 - dll
 
 
-## Otomatisasi (opsional)
+## Otomatisasi
 
 Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
