@@ -159,4 +159,4 @@ Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya sepert
 
 ## Referensi
 
-Cantumkan tiap sumber informasi yang anda pakai.
+<link href="https://recruitment.compfest.id/">Compfest<link/>
