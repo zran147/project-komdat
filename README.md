@@ -8,12 +8,15 @@
 ## Sekilas Tentang
 **Noted** merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan. Aplikasi ini tidak hanya menyediakan fungsi dasar pencatatan transaksi, tetapi juga dilengkapi dengan fitur visualisasi yang memungkinkan pengguna melihat data keuangan mereka dalam bentuk grafik. Dengan Noted, pengguna dapat dengan mudah melacak dan memahami pola pengeluaran dan pemasukan mereka melalui representasi visual yang jelas dan informatif sehingga memudahkan pengguna untuk mengelola keuangan pribadi dengan lebih efisien.
 
-## Instalasi
+# Instalasi
 
-#### Kebutuhan sistem :
-    - Sistem Operasi : Linux atau Windows
+### Kebutuhan sistem :
+- OS: Linux/Windows
+- Apache Web server 1.3+.
+- PHP 5.2+.
+- MySQL 5.0+.
 
-#### Proses instalasi :
+### Proses instalasi :
 - Membuat environment baru dengan application server apache versi terbaru dengan **php versi 8.0.29**
 
 <img src="screenshot/ss-komdat-1.jpg">
@@ -37,6 +40,20 @@
 - Selanjutnya adalah membuat file `.htaccess` pada `~/webroot/ROOT`
 
 <img src="screenshot/ss-komdat-6.jpg">
+
+- Mengubah `.env` menjadi seperti berikut
+
+<img src="screenshot/ss-komdat-7.jpg">
+
+- Kemudian, kita menjalankan command command berikut
+    ```
+    cp .env.example .env
+    composer install --ignore-platform-reqs
+    composer update
+    php artisan storage:link
+    php artisan key:generate
+    php artisan migrate:fresh --seed
+    ```
 
 
 ## Konfigurasi (opsional)
