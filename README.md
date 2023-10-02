@@ -1,4 +1,4 @@
-![image](https://github.com/zran147/project-komdat/assets/117354363/1b00cf9a-0be3-45f4-8434-5db85fd61180)<h1 align="center"><img src="https://images.squarespace-cdn.com/content/v1/61d85b007f3a131e371c47a7/b7a232c6-28f2-4a91-8142-72cb3818d984/Noted_Logo_Navy.png?format=1500w"></h1>
+<h1 align="center"><img src="https://images.squarespace-cdn.com/content/v1/61d85b007f3a131e371c47a7/b7a232c6-28f2-4a91-8142-72cb3818d984/Noted_Logo_Navy.png?format=1500w"></h1>
 
 # Aplikasi Web **"IT TODAY"**
 
