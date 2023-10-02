@@ -6,7 +6,7 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
-**Noted** merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan.
+**Noted** merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan. Aplikasi ini tidak hanya menyediakan fungsi dasar pencatatan transaksi, tetapi juga dilengkapi dengan fitur visualisasi yang memungkinkan pengguna melihat data keuangan mereka dalam bentuk grafik. Dengan Noted, pengguna dapat dengan mudah melacak dan memahami pola pengeluaran dan pemasukan mereka melalui representasi visual yang jelas dan informatif sehingga memudahkan pengguna untuk mengelola keuangan pribadi dengan lebih efisien.
 
 ## Instalasi
 
