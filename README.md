@@ -15,6 +15,7 @@
 - Apache Web server 2.4.57
 - PHP 8.0.29
 - MySQL CE 8.0.34
+- Dewa Cloud
 
 ### Proses instalasi :
 - Membuat environment baru dengan application server apache versi terbaru dengan **php versi 8.0.29**
