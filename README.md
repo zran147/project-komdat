@@ -1,14 +1,19 @@
 # Aplikasi Web "Noted"
 
-Noted merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan. 
+[Sekilas Tentang](#sekilas-tentang) | [Instalasi](#instalasi) | [Konfigurasi](#konfigurasi) | [Otomatisasi](#otomatisasi) | [Cara Pemakaian](#cara-pemakaian) | [Pembahasan](#pembahasan) | [Referensi](#referensi)
+:---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
 
-Deskripsi singkat tentang aplikasi tsb.
-
+Noted merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keuangan dan penyimpan catatan.
 
 ## Instalasi
 
+#### Kebutuhan sistem :
+    - Linux atau Windows
+
+#### Proses instalasi : 
+    - 
 - Prasyarat, apa saja yang harus diinstal sebelumnya.
 - Langkah instalasi dalam CLI.
 
