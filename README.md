@@ -65,8 +65,12 @@ Di samping itu, Noted memiliki beberapa kekurangan di antaranya ialah
 - Saat ini, Noted hanya dikembangkan dengan single language, sehingga terdapat language barrier bagi pengguna yang tidak dapat berbahasa Indonesia dan akan mengalami kesulitan dalam mengakses aplikasi.
 - Terdapat beberapa fitur yang memiliki tujuan secara implisit, sehingga akan membingungkan bagi pengguna yang tidak diberikan petunjuk penggunaannya, terutama bagi pengguna baru.
 
--Bandingkan dengan aplikasi web lain yang sejenis
+Jika dibandingkan dengan *Money Management System (MMS)* sejenisnya seperti **Actual**, **Noted** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MMS tersebut:
 
+1. **Actual** menyediakan tampilan UI yang fleksibel dan simpel dengan fitur dropdown yang interaktif, sehingga pengguna bisa lebih nyaman menggunakannya. Sedangkan **Noted** hanya menyediakan tampilan yang biasa, namun tetap mengedepankan segi manfaat penggunaannya.
+2. Fitur yang disediakan oleh **Actual** jauh lebih banyak dibandingkan pada **Noted**.
+3. **Actual** menyediakan *multifile* untuk mencatat kebutuhan keuangan yang berbeda (*misalnya: personal, bisnis, dll*), sedangkan pada **Noted** masih *singlefile*.
+4. **Actual** memiliki fitur *Schedules* sehingga dapat melakukan penjadwalan untuk memanajemen keuangan pengguna, sementara **Noted** belum menyediakan fitur tersebut.
 
 ## Referensi
 
