@@ -16,6 +16,7 @@
 - PHP 8.0.29
 - MySQL CE 8.0.34
 - Dewa Cloud
+- phpMyAdmin
 
 ### Proses instalasi :
 - Membuat environment baru dengan application server apache versi terbaru dengan **php versi 8.0.29**
