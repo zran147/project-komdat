@@ -94,20 +94,41 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 ## Cara Pemakaian
 
 1. Home Page
+   
+   Home Page ini merupakan page pertama yang akan dijumpai pengguna, baik itu *user* ataupun admin ketika mengakses website. Terdapat *navigation bar* yang berisikan berbagai navigasi bagi pengguna yang ingin mengakses fitur lainnya. Di dalam Home Page juga terdapat berbagai fitur dan informasi lainnya, seperti _events_ yang terdapat _carousel image_ berupa informasi singkat dari _event_ yang akan dilaksanakan oleh IT Today, _competitions_ berisikan _carousel image_ informasi singkat mengenai kompetisi yang akan diadakan, _about us_ berisikan informasi singkat mengenai IT Today, sponsor yang tergabung di dalam acara, _reach us_ yang digunakan sebagai kontak dari penyelenggara, dan juga _footer_ yang berisikan identitas atau alamat dari penyelenggara _event_.
      
      <img src="screenshot/komdat-tampilan1.png">
-
-     Home Page ini merupakan page pertama yang akan dijumpai pengguna, baik itu *user* ataupun admin ketika mengakses website. Terdapat *navigation bar* yang berisikan berbagai navigasi bagi pengguna yang ingin mengakses fitur lainnya. Di dalam Home Page juga terdapat berbagai fitur dan informasi lainnya, seperti _events_ yang terdapat _carousel image_ berupa informasi singkat dari _event_ yang akan dilaksanakan oleh IT Today, sponsor yang tergabung di dalam acara, _reach us_ yang digunakan sebagai kontak dari penyelenggara, dan juga _footer_ yang berisikan identitas atau alamat dari penyelenggara _event_.
+     <img src="screenshot/komdat-tampilan2.png">
+     <img src="screenshot/komdat-tampilan3.png">
+     <img src="screenshot/komdat-tampilan4.png">
+     <img src="screenshot/komdat-tampilan5.png">
+     <img src="screenshot/komdat-tampilan6.png">
+     <img src="screenshot/komdat-tampilan7.png">
 
 2. Events Page
-    
+     Events Page berisikan informasi _event_ apa saja yang akan dilaksanakan. Berbeda dengan fitur events pada Home Page, fitur ini ditampilkan pada _navigation bar_, berisikan penjelasan detail untuk setiap kegiatan yang akan dilaksanakan.
+
     <img src="screenshot/komdat-tampilan8.png">
 
-    Events Page berisikan informasi _event_ apa saja yang akan dilaksanakan. Berbeda dengan fitur events pada Home Page, fitur ini ditampilkan pada _navigation bar_, berisikan penjelasan detail untuk setiap kegiatan yang akan dilaksanakan.
-
+   
 3. Competitions Page
+
+  Berisikan informasi detail mengenai kompetisi yang akan dilaksanakan.
+  
+  <img src="screenshot/komdat-tampilan9.png">
+  
 4. Register Page
+   
+   Digunakan untuk melakukan registerasi saat membuat akun pertama kali.
+
+   <img src="screenshot/komdat-tampilan10.png">
+   
 5. Login Page
+   
+   Digunakan untuk melakukan _log in_ pada akun menggunakan email dan _password_ yang telah dibuat.
+
+   <img src="screenshot/komdat-tampilan11.png">
+   
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
@@ -124,6 +145,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Berbasis bahasa Inggris dan Indonesia, sehingga memudahkan banyak pengguna.
 - Berbagai fitur disediakan dan dengan jelas terbagi oleh masing-masing *role*, sehingga memudahkan penggunaannya dan keamanannya data juga terjaga.
 - Memiliki keaamanan yang dikembangkan dengan sangat baik di berbagai fitur dan layanannya.
+- Terdapat fitur pengiriman email secara otomatis.
 
 Di samping itu, **IT Today** memiliki beberapa kekurangan di antaranya ialah
 
