@@ -9,7 +9,7 @@ Noted merupakan aplikasi berbasis website yang bertujuan sebagai pencatatan keua
 ## Instalasi
 
 #### Kebutuhan sistem :
-    - Linux atau Windows
+    - Sistem Operasi : Linux atau Windows
 
 #### Proses instalasi : 
     - 
