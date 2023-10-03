@@ -113,21 +113,21 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    
 3. Competitions Page
 
-  Berisikan informasi detail mengenai kompetisi yang akan dilaksanakan.
+    Berisikan informasi detail mengenai kompetisi yang akan dilaksanakan.
   
-  <img src="screenshot/komdat-tampilan9.png">
+    <img src="screenshot/komdat-tampilan9.png">
   
 4. Register Page
    
-   Digunakan untuk melakukan registerasi saat membuat akun pertama kali.
+     Digunakan untuk melakukan registerasi saat membuat akun pertama kali.
 
-   <img src="screenshot/komdat-tampilan10.png">
+     <img src="screenshot/komdat-tampilan10.png">
    
 5. Login Page
    
-   Digunakan untuk melakukan _log in_ pada akun menggunakan email dan _password_ yang telah dibuat.
+     Digunakan untuk melakukan _log in_ pada akun menggunakan email dan _password_ yang telah dibuat.
 
-   <img src="screenshot/komdat-tampilan11.png">
+     <img src="screenshot/komdat-tampilan11.png">
 
 ***AS USER***
   1. Melakukan registrasi pada _registration page_
@@ -164,10 +164,30 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       <img src="screenshot/as-user9.png">
       <img src="screenshot/as-user10.png">
 
-- Tampilan aplikasi web
-- Fungsi-fungsi utama
-- Isi dengan data real/dummy (jangan kosongan) dan sertakan beberapa screenshot
+***AS ADMIN***
+  1. Masuk ke akun admin dan akan menampilkan halaman depan web versi admin. Selanjutnya, klik menu `dashboard`.
+     
+     <img src="screenshot/ss-komdat-9.jpg">
 
+  2. Pada menu `dasboard`, Admin dapat melihat jumlah pendaftar pada kompetisi.
+     
+     <img src="screenshot/ss-komdat-10.jpg">
+
+  3. Admin memilih salah satu kompetisi, misal `Hacktoday`. Maka akan tampil list pendaftar/tim dari kompetisi. Klik `detail` untuk melihat detail informasi tim.
+     
+     <img src="screenshot/ss-komdat-11.jpg">
+
+  4. Halaman ini berisi detail informasi tim, status verifikasi tim, dan berkas registrasi yang *di-submit* oleh tim. 
+     
+     <img src="screenshot/ss-komdat-12.jpg">
+
+  5. Kemudian, Admin akan melakukan verifikasi berkas dengan `acc verification` atau `refuse verification`.
+     
+     <img src="screenshot/ss-komdat-13.jpg">
+
+  6. Setelah melakukan verifikasi, Admin dapat mengirim pesan melalui email untuk memberikan feedback ke pendaftar/tim.
+     
+     <img src="screenshot/ss-komdat-14.jpg">
 
 ## Pembahasan
 **IT Today 2023 Official Webiste** merupakan aplikasi *Management Information System* (MIS) berbasis website yang digunakan oleh mahasiswa sarjana Departemen Ilmu Komputer IPB dalam mengadakan rangkaian acara IT Today. Website ini digunakan sebagai media informasi mengenai berbagai *event* seperti seminar dan juga informasi kompetisi. Selain itu, IT Today juga digunakan untuk melakukan manajemen pendaftaran peserta kompetisi. Aplikasi ini dibangun dengan menggunakan HTML, CSS, JavaScript, dan bantuan *framework* Bootstrap sebagai pengembangan *front end*. Pengembangan *back end* dikembangkan dengan menggunakan bahasa PHP melalui *framework* Laravel dan Livewire. Database yang digunakan ialah *relational database management system*, dengan menggunakan MySQL. **IT Today** memiliki berbagai kelebihan yang dapat memberikan value yang lebih bagi pengguna, di antaranya adalah 
