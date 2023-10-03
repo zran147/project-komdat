@@ -147,12 +147,12 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 - Memiliki keaamanan yang dikembangkan dengan sangat baik di berbagai fitur dan layanannya.
 - Terdapat fitur pengiriman email secara otomatis.
 
-Di samping itu, **IT Today** memiliki beberapa kekurangan di antaranya ialah
+Di samping itu, **IT Today 2023 Official Webiste** memiliki beberapa kekurangan di antaranya ialah
 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
 - Konfirmasi status pembayaran yang masih dilakukan secara manual oleh admin.
 
-Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya seperti **Comfest**, **IT Today** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MIS tersebut:
+Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya seperti **Compfest**, **IT Today** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MIS tersebut:
 
 1. Fitur yang disediakan oleh **Compfest** jauh lebih banyak dibandingkan pada **IT Today**.
 2. **Compfest** memiliki *light mode* dan *night mode*, sehingga pengguna dapat menyesuaikan preferensinya.
