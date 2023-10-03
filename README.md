@@ -131,21 +131,36 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 ***AS USER***
   1. Melakukan registrasi pada _registration page_
+     
      <img src="screenshot/as-user1.png">
+     
   2. Setelah melakukan registrasi, pengguna akan diarahkan menuju home page
+     
      <img src="screenshot/as-user2.png">
+     
   3. Pengguna melakukan verifikasi account. Verifikasi akan dilakukan melalui email yang dikirimkan
+     
      <img src="screenshot/as-user3.png">
+     
   4. Setelah melakukan verifikasi, pengguna akan diarahkan menuju profile page. Pada page tersebut, pengguna akan melihat daftar event dan kompetisi yang diikuti. Jika belum mendaftar maka tampilan akan kosong.
+     
      <img src="screenshot/as-user4.png">
      <img src="screenshot/as-user5.png">
+     
   5. Selanjutnya, menuju competitions page untuk melakukan pendaftaran kompetisi.
+     
       <img src="screenshot/as-user6.png">
+      
   6. Pengguna akan diarahkan agar mengisikan identitas tim yang akan diregistrasi.
+      
       <img src="screenshot/as-user7.png">
+      
   7. Setelah itu, pengguna akan mengisikan masing-masing identitas anggota timnya.
+      
       <img src="screenshot/as-user8.png">
+      
   8. Setelah melakukan submit, registrasi tim dan anggota akan diverifikasi oleh admin.
+      
       <img src="screenshot/as-user9.png">
       <img src="screenshot/as-user10.png">
 
