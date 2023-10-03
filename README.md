@@ -228,6 +228,7 @@ Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya sepert
 
 1. Fitur yang disediakan oleh **Compfest** jauh lebih banyak dibandingkan pada **IT Today**.
 2. **Compfest** memiliki *light mode* dan *night mode*, sehingga pengguna dapat menyesuaikan preferensinya.
+3. **Compfest** dapat melakukan _authentication_ menggunakan Google Account.
 
 ## Referensi
 
