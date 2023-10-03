@@ -189,6 +189,10 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
      
      <img src="screenshot/ss-komdat-14.jpg">
 
+  7. Setelah verifikasi *di-acc*. Akan muncul kolom pembayaran dan Admin dapat melakukan `acc payment` atau `refuse payment` terhadap bukti pembayaran yang *di-upload* pendaftar/tim.
+     
+     <img src="screenshot/ss-komdat-15.jpg">
+
 ## Pembahasan
 **IT Today 2023 Official Webiste** merupakan aplikasi *Management Information System* (MIS) berbasis website yang digunakan oleh mahasiswa sarjana Departemen Ilmu Komputer IPB dalam mengadakan rangkaian acara IT Today. Website ini digunakan sebagai media informasi mengenai berbagai *event* seperti seminar dan juga informasi kompetisi. Selain itu, IT Today juga digunakan untuk melakukan manajemen pendaftaran peserta kompetisi. Aplikasi ini dibangun dengan menggunakan HTML, CSS, JavaScript, dan bantuan *framework* Bootstrap sebagai pengembangan *front end*. Pengembangan *back end* dikembangkan dengan menggunakan bahasa PHP melalui *framework* Laravel dan Livewire. Database yang digunakan ialah *relational database management system*, dengan menggunakan MySQL. **IT Today** memiliki berbagai kelebihan yang dapat memberikan value yang lebih bagi pengguna, di antaranya adalah 
 
