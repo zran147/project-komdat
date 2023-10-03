@@ -6,7 +6,7 @@
 :---:|:---:|:---:|:---:|:---:|:---:|:---:
 
 ## Sekilas Tentang
-**IT Today 2023** merupakan aplikasi *Management Information System* (MIS) berbasis website yang dirancang oleh mahasiswa sarjana Departemen Ilmu Komputer IPB sebagai media informasi mengenai berbagai *event* (seminar komunitas, workshop, seminar nasional) dan juga *kompetisi*.
+IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Ilmu Komputer (HIMALKOM) IPB dan Departemen Ilmu Komputer IPB. Tahun ini, IT Today 2023 menghadirkan serangkaian acara menarik, seperti seminar komunitas, workshop, kompetisi, seminar nasional, dan awarding. **IT Today 2023 Official Website** ini merupakan aplikasi *Management Information System* (MIS) berbasis website yang dirancang untuk memberikan informasi lengkap mengenai seluruh rangkaian acara IT Today. Selain informasi acara yang lengkap, peserta acara IT Today dapat mendaftarkan dirinya langsung melalui website ini untuk mengikuti acara maupun kompetisi yang diselenggarakan. 
 
 # Instalasi
 
