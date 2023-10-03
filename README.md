@@ -82,11 +82,14 @@ Plugin untuk fungsi tambahan
 
 **Backup database**
 - Untuk memelihara database, digunakan *Notion* untuk membuat salinan data sekaligus menghubungi pendaftar/tim untuk melakukan pembayaran.
+- 
   <img src="screenshot/ss-komdat-16.jpg">
 
 **Menunggu berkas**
 - Admin harus login ke website secara berkala, untuk mengecek dan menverifikasi berkas-berkas pendaftar/tim.
+  
   <img src="screenshot/ss-komdat-17.jpg">
+  
   <img src="screenshot/ss-komdat-18.jpg">
 
 ## Otomatisasi
