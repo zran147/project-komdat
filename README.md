@@ -230,6 +230,7 @@ Di samping itu, **IT Today 2023 Official Webiste** memiliki beberapa kekurangan 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
 - Konfirmasi/verifikasi berkas dan bukti pembayaran yang masih dilakukan secara manual oleh admin.
 - Backup database masih dilakukan secara manual melalui *Notion*.
+- Admin harus login ke web secara berkala untuk mengecek berkas pendaftar/tim sudah terupload atau belum.
 
 Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya seperti **Compfest**, **IT Today** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MIS tersebut:
 
