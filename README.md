@@ -80,11 +80,14 @@ Plugin untuk fungsi tambahan
 
 ##  Maintenance
 
-Setting tambahan untuk maintenance secara periodik, misalnya:
-- buat backup database tiap pekan
-- hapus direktori sampah tiap hari
-- dll
+**Backup database**
+- Untuk memelihara database, digunakan *Notion* untuk membuat salinan data sekaligus menghubungi pendaftar/tim untuk melakukan pembayaran.
+  <img src="screenshot/ss-komdat-16.jpg">
 
+**Menunggu berkas**
+- Admin harus login ke website secara berkala, untuk mengecek dan menverifikasi berkas-berkas pendaftar/tim.
+  <img src="screenshot/ss-komdat-17.jpg">
+  <img src="screenshot/ss-komdat-18.jpg">
 
 ## Otomatisasi
 
@@ -223,6 +226,7 @@ Di samping itu, **IT Today 2023 Official Webiste** memiliki beberapa kekurangan 
 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
 - Konfirmasi status pembayaran yang masih dilakukan secara manual oleh admin.
+- Backup database masih dilakukan secara manual melalui *Notion*.
 
 Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya seperti **Compfest**, **IT Today** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MIS tersebut:
 
