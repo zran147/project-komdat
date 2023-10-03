@@ -128,7 +128,11 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
    Digunakan untuk melakukan _log in_ pada akun menggunakan email dan _password_ yang telah dibuat.
 
    <img src="screenshot/komdat-tampilan11.png">
-   
+
+***AS USER***
+  1. Melakukan registrasi pada _registration page_
+  2. Setelah melakukan registrasi, pengguna akan diarahkan menuju home page
+  3. Pengguna melakukan verifikasi account
 
 - Tampilan aplikasi web
 - Fungsi-fungsi utama
