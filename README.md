@@ -159,4 +159,5 @@ Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya sepert
 
 ## Referensi
 
-<link href="https://recruitment.compfest.id/">Compfest<link/>
+1. [Website IT Today](http:[//it-today.user.cloudjkt01.com/]) - IT Today
+2. [Website Compfest](https:[//recruitment.compfest.id/])https://recruitment.compfest.id/) - Compfest
