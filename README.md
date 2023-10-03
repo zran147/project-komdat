@@ -67,24 +67,6 @@ IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Il
     ```
 
 
-## Konfigurasi
-
-Apache Server:
-- Disk limit 50 GB
-- RAM 128 MiB dan dapat horizontal scaling sampai 512 MiB
-- CPU 400 MHz dan dapat horizontal scaling sampai 1.6 GHz
-
-Database Server:
-- Disk Limit 50 GB
-- RAM 512 MiB dan dapat horizontal scaling sampai 768 MiB
-- CPU 1.6 GHz dan dapat horizontal scaling sampai 2.4 GHz
-
-Plugin untuk fungsi tambahan:
-- konfirmasi email saat pembuatan akun
-- fitur forget password melalui email akun
-- otomasi pengiriman email saat mengkonfirmasi pembayaran
-
-
 ##  Maintenance
 
 **Backup database**
