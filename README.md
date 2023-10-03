@@ -164,6 +164,20 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
       <img src="screenshot/as-user9.png">
       <img src="screenshot/as-user10.png">
 
+  9. Peserta akan mendapatkan email dari admin jika persyaratan berkas telah terpenuhi setelah pengecekan.
+      
+     <img src="screenshot/as-user11.png">
+     <img src="screenshot/as-user12.png">
+     
+  10. Setelah peserta, menekan klik pada email verifikasi, akan di bawa menuju login page.
+
+      <img src="screenshot/as-user15.png">
+      
+  11. Akhirnya, status peserta sudah terverifikasi dan dapat diselesaikan dengan melakukan pembayaran.
+
+      <img src="screenshot/as-user13.png">
+      <img src="screenshot/as-user14.png">
+
 ***AS ADMIN***
   1. Masuk ke akun admin dan akan menampilkan halaman depan web versi admin. Selanjutnya, klik menu `dashboard`.
      
