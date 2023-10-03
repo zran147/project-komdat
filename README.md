@@ -192,7 +192,7 @@ Plugin untuk fungsi tambahan:
      
      <img src="screenshot/ss-komdat-9.jpg">
 
-  2. Pada menu `dasboard`, Admin dapat melihat jumlah pendaftar pada kompetisi.
+  2. Pada menu `dashboard`, Admin dapat melihat jumlah pendaftar pada kompetisi.
      
      <img src="screenshot/ss-komdat-10.jpg">
 
@@ -217,7 +217,7 @@ Plugin untuk fungsi tambahan:
      <img src="screenshot/ss-komdat-15.jpg">
 
 ## Pembahasan
-**IT Today 2023 Official Webiste** merupakan aplikasi *Management Information System* (MIS) berbasis website yang digunakan oleh mahasiswa sarjana Departemen Ilmu Komputer IPB dalam mengadakan rangkaian acara IT Today. Website ini digunakan sebagai media informasi mengenai berbagai *event* seperti seminar dan juga informasi kompetisi. Selain itu, IT Today juga digunakan untuk melakukan manajemen pendaftaran peserta kompetisi. Aplikasi ini dibangun dengan menggunakan HTML, CSS, JavaScript, dan bantuan *framework* Bootstrap sebagai pengembangan *front end*. Pengembangan *back end* dikembangkan dengan menggunakan bahasa PHP melalui *framework* Laravel dan Livewire. Database yang digunakan ialah *relational database management system*, dengan menggunakan MySQL. **IT Today** memiliki berbagai kelebihan yang dapat memberikan value yang lebih bagi pengguna, di antaranya adalah 
+**IT Today 2023 Official Website** merupakan aplikasi *Management Information System* (MIS) berbasis website yang digunakan oleh mahasiswa sarjana Departemen Ilmu Komputer IPB dalam mengadakan rangkaian acara IT Today. Website ini digunakan sebagai media informasi mengenai berbagai *event* seperti seminar dan juga informasi kompetisi. Selain itu, IT Today juga digunakan untuk melakukan manajemen pendaftaran peserta kompetisi. Aplikasi ini dibangun dengan menggunakan HTML, CSS, JavaScript, dan bantuan *framework* Bootstrap sebagai pengembangan *front end*. Pengembangan *back end* dikembangkan dengan menggunakan bahasa PHP melalui *framework* Laravel dan Livewire. Database yang digunakan ialah *relational database management system*, dengan menggunakan MySQL. **IT Today** memiliki berbagai kelebihan yang dapat memberikan value yang lebih bagi pengguna, di antaranya adalah 
 
 - Memiliki panel administrasi yang juga terbagi menjadi *role* bagi masing-masing admin, sehingga memudahkan dalam memanajemen *task* yang diperlukan. 
 - Memiliki tampilan UI yang sangat menarik dan interaktif, sehingga tidak membuat bosan pengguna.
@@ -228,7 +228,7 @@ Plugin untuk fungsi tambahan:
 - Memiliki keaamanan yang dikembangkan dengan sangat baik di berbagai fitur dan layanannya.
 - Terdapat fitur pengiriman email secara otomatis.
 
-Di samping itu, **IT Today 2023 Official Webiste** memiliki beberapa kekurangan di antaranya ialah
+Di samping itu, **IT Today 2023 Official Website** memiliki beberapa kekurangan di antaranya ialah
 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
 - Konfirmasi/verifikasi berkas dan bukti pembayaran yang masih dilakukan secara manual oleh admin.
