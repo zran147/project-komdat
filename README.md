@@ -59,7 +59,6 @@ IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Il
 
 - Kemudian, kita menjalankan command command berikut
     ```
-    cp .env.example .env
     composer install --ignore-platform-reqs
     composer update
     php artisan storage:link
