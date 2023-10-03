@@ -228,7 +228,7 @@ Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 Di samping itu, **IT Today 2023 Official Webiste** memiliki beberapa kekurangan di antaranya ialah
 
 - Tidak dapat mengatur atau melakukan *sorting* terhadap urutan peserta kompetisi pada *dashboard*.
-- Konfirmasi status pembayaran yang masih dilakukan secara manual oleh admin.
+- Konfirmasi/verifikasi berkas dan bukti pembayaran yang masih dilakukan secara manual oleh admin.
 - Backup database masih dilakukan secara manual melalui *Notion*.
 
 Jika dibandingkan dengan *Management Information System (MIS)* sejenisnya seperti **Compfest**, **IT Today** memiliki keunggulan dan kekurangan. Berikut adalah perbandingan antara kedua MIS tersebut:
