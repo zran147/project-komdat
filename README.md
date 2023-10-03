@@ -49,7 +49,10 @@ IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Il
   <img src="screenshot/ss-komdat-6.jpg">
 
 
-- Mengubah `.env` menjadi seperti berikut
+- Kemudian, kita menjalankan command berikut dan mengubah isi `.env`
+    ```
+    cp .env.example .env
+    ```
 
   <img src="screenshot/ss-komdat-8.jpg">
 
@@ -67,22 +70,27 @@ IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Il
 
 ## Konfigurasi
 
-Setting server tambahan yang diperlukan untuk meningkatkan fungsi dan kinerja aplikasi, misalnya:
-- batas upload file
-- batas memori
-- dll
+Apache Server:
+- Disk limit 50 GB
+- RAM 128 MiB dan dapat horizontal scaling sampai 512 MiB
+- CPU 400 MHz dan dapat horizontal scaling sampai 1.6 GHz
 
-Plugin untuk fungsi tambahan
-- login dengan Google/Facebook
-- editor Markdown
-- dll
+Database Server:
+- Disk Limit 50 GB
+- RAM 512 MiB dan dapat horizontal scaling sampai 768 MiB
+- CPU 1.6 GHz dan dapat horizontal scaling sampai 2.4 GHz
+
+Plugin untuk fungsi tambahan:
+- konfirmasi email saat pembuatan akun
+- fitur forget password melalui email akun
+- otomasi pengiriman email saat mengkonfirmasi pembayaran
 
 
 ##  Maintenance
 
 **Backup database**
 - Untuk memelihara database, digunakan *Notion* untuk membuat salinan data sekaligus menghubungi pendaftar/tim untuk melakukan pembayaran.
-- 
+
   <img src="screenshot/ss-komdat-16.jpg">
 
 **Menunggu berkas**
@@ -91,10 +99,6 @@ Plugin untuk fungsi tambahan
   <img src="screenshot/ss-komdat-17.jpg">
   
   <img src="screenshot/ss-komdat-18.jpg">
-
-## Otomatisasi
-
-Skrip shell untuk otomatisasi instalasi, konfigurasi, dan maintenance.
 
 
 ## Cara Pemakaian
