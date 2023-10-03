@@ -51,7 +51,7 @@ IT Today merupakan acara tahunan yang diselenggarakan oleh Himpunan Mahasiswa Il
 
 - Mengubah `.env` menjadi seperti berikut
 
-  <img src="screenshot/ss-komdat-7.jpg">
+  <img src="screenshot/ss-komdat-8.jpg">
 
 
 - Kemudian, kita menjalankan command command berikut
